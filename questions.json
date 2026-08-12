@@ -1459,6 +1459,286 @@
    }
   },
   {
+   "id": "geunro-40h-r",
+   "claim": "휴게시간을 뺀 1주 근로시간은 40시간을 넘길 수 없다.",
+   "verdict": "REAL",
+   "explanation": "근로기준법 제50조 제1항은 «1주 간의 근로시간은 휴게시간을 제외하고 40시간을 초과할 수 없다»고 정하고, 제2항은 1일 8시간을 한도로 둡니다.",
+   "basisKey": "geunro-40h",
+   "topic": "일과 임금",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B7%BC%EB%A1%9C%EA%B8%B0%EC%A4%80%EB%B2%95/%EC%A0%9C50%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "geunro-40h-f",
+   "claim": "휴게시간을 뺀 1주 근로시간의 법정 한도는 44시간이다.",
+   "verdict": "FAKE",
+   "explanation": "근로기준법 제50조 제1항은 «1주 간의 근로시간은 휴게시간을 제외하고 40시간을 초과할 수 없다»고 정하고, 제2항은 1일 8시간을 한도로 둡니다.",
+   "basisKey": "geunro-40h",
+   "topic": "일과 임금",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B7%BC%EB%A1%9C%EA%B8%B0%EC%A4%80%EB%B2%95/%EC%A0%9C50%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "daegi-time-r",
+   "claim": "지시를 기다리는 대기시간도 근로시간에 들어간다.",
+   "verdict": "REAL",
+   "explanation": "근로기준법 제50조 제3항은 작업을 위하여 근로자가 사용자의 지휘·감독 아래에 있는 «대기시간 등은 근로시간으로 본다»고 명시합니다.",
+   "basisKey": "daegi-time",
+   "topic": "일과 임금",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B7%BC%EB%A1%9C%EA%B8%B0%EC%A4%80%EB%B2%95/%EC%A0%9C50%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "daegi-time-f",
+   "claim": "실제로 일하지 않고 기다린 대기시간은 근로시간에서 빠진다.",
+   "verdict": "FAKE",
+   "explanation": "근로기준법 제50조 제3항은 작업을 위하여 근로자가 사용자의 지휘·감독 아래에 있는 «대기시간 등은 근로시간으로 본다»고 명시합니다.",
+   "basisKey": "daegi-time",
+   "topic": "일과 임금",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B7%BC%EB%A1%9C%EA%B8%B0%EC%A4%80%EB%B2%95/%EC%A0%9C50%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "yeonjang-12h-r",
+   "claim": "당사자가 합의해도 연장근로는 1주 12시간이 한도다.",
+   "verdict": "REAL",
+   "explanation": "근로기준법 제53조 제1항은 «당사자 간에 합의하면 1주 간에 12시간을 한도로» 근로시간을 연장할 수 있다고 정합니다. 합의가 있어도 한도는 남습니다.",
+   "basisKey": "yeonjang-12h",
+   "topic": "일과 임금",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B7%BC%EB%A1%9C%EA%B8%B0%EC%A4%80%EB%B2%95/%EC%A0%9C53%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "yeonjang-12h-f",
+   "claim": "당사자가 합의하면 연장근로 시간은 제한 없이 늘릴 수 있다.",
+   "verdict": "FAKE",
+   "explanation": "근로기준법 제53조 제1항은 «당사자 간에 합의하면 1주 간에 12시간을 한도로» 근로시간을 연장할 수 있다고 정합니다. 합의가 있어도 한도는 남습니다.",
+   "basisKey": "yeonjang-12h",
+   "topic": "일과 임금",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B7%BC%EB%A1%9C%EA%B8%B0%EC%A4%80%EB%B2%95/%EC%A0%9C53%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "goeoerop-r",
+   "claim": "직장 내 괴롭힘은 사용자뿐 아니라 동료 근로자도 하면 안 된다.",
+   "verdict": "REAL",
+   "explanation": "근로기준법 제76조의2는 «사용자 또는 근로자는» 지위나 관계의 우위를 이용해 업무상 적정범위를 넘는 행위를 해서는 안 된다고 정합니다. 주체에 근로자가 함께 들어 있습니다.",
+   "basisKey": "goeoerop",
+   "topic": "일과 임금",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B7%BC%EB%A1%9C%EA%B8%B0%EC%A4%80%EB%B2%95/%EC%A0%9C76%EC%A1%B0%EC%9D%982",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "goeoerop-f",
+   "claim": "직장 내 괴롭힘 금지는 사용자에게만 적용되고 동료 사이에는 해당하지 않는다.",
+   "verdict": "FAKE",
+   "explanation": "근로기준법 제76조의2는 «사용자 또는 근로자는» 지위나 관계의 우위를 이용해 업무상 적정범위를 넘는 행위를 해서는 안 된다고 정합니다. 주체에 근로자가 함께 들어 있습니다.",
+   "basisKey": "goeoerop",
+   "topic": "일과 임금",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B7%BC%EB%A1%9C%EA%B8%B0%EC%A4%80%EB%B2%95/%EC%A0%9C76%EC%A1%B0%EC%9D%982",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "choejeo-muhyo-r",
+   "claim": "최저임금보다 낮게 적기로 합의한 근로계약은 그 부분이 무효다.",
+   "verdict": "REAL",
+   "explanation": "최저임금법 제6조 제3항은 최저임금액에 미치지 못하는 금액을 임금으로 정한 부분을 «무효로 하며», 그 부분은 최저임금액으로 정한 것으로 본다고 정합니다.",
+   "basisKey": "choejeo-muhyo",
+   "topic": "일과 임금",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B5%9C%EC%A0%80%EC%9E%84%EA%B8%88%EB%B2%95/%EC%A0%9C6%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "choejeo-muhyo-f",
+   "claim": "근로자가 동의했다면 최저임금보다 낮은 임금으로 정해도 유효하다.",
+   "verdict": "FAKE",
+   "explanation": "최저임금법 제6조 제3항은 최저임금액에 미치지 못하는 금액을 임금으로 정한 부분을 «무효로 하며», 그 부분은 최저임금액으로 정한 것으로 본다고 정합니다.",
+   "basisKey": "choejeo-muhyo",
+   "topic": "일과 임금",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B5%9C%EC%A0%80%EC%9E%84%EA%B8%88%EB%B2%95/%EC%A0%9C6%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "choejeo-natchum-r",
+   "claim": "최저임금이 올랐다는 이유로 기존 임금 수준을 낮출 수 없다.",
+   "verdict": "REAL",
+   "explanation": "최저임금법 제6조 제2항은 «사용자는 이 법에 따른 최저임금을 이유로 종전의 임금수준을 낮추어서는 아니 된다»고 못 박고 있습니다.",
+   "basisKey": "choejeo-natchum",
+   "topic": "일과 임금",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B5%9C%EC%A0%80%EC%9E%84%EA%B8%88%EB%B2%95/%EC%A0%9C6%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "choejeo-natchum-f",
+   "claim": "최저임금이 오르면 그에 맞춰 다른 수당을 줄여 총액을 유지해도 된다.",
+   "verdict": "FAKE",
+   "explanation": "최저임금법 제6조 제2항은 «사용자는 이 법에 따른 최저임금을 이유로 종전의 임금수준을 낮추어서는 아니 된다»고 못 박고 있습니다.",
+   "basisKey": "choejeo-natchum",
+   "topic": "일과 임금",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B5%9C%EC%A0%80%EC%9E%84%EA%B8%88%EB%B2%95/%EC%A0%9C6%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "geonbo-piboo-r",
+   "claim": "피부양자가 되려면 소득과 재산이 정해진 기준 아래여야 한다.",
+   "verdict": "REAL",
+   "explanation": "국민건강보험법 제5조 제2항은 피부양자를 직장가입자에게 «주로 생계를 의존하는 사람으로서 소득 및 재산이 보건복지부령으로 정하는 기준 이하인» 사람으로 한정합니다.",
+   "basisKey": "geonbo-piboo",
+   "topic": "4대보험",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EB%AF%BC%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EB%B2%95/%EC%A0%9C5%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "geonbo-piboo-f",
+   "claim": "직장가입자의 가족이면 소득이 얼마든 피부양자로 등록된다.",
+   "verdict": "FAKE",
+   "explanation": "국민건강보험법 제5조 제2항은 피부양자를 직장가입자에게 «주로 생계를 의존하는 사람으로서 소득 및 재산이 보건복지부령으로 정하는 기준 이하인» 사람으로 한정합니다.",
+   "basisKey": "geonbo-piboo",
+   "topic": "4대보험",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EB%AF%BC%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EB%B2%95/%EC%A0%9C5%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "geonbo-1il-r",
+   "claim": "자격을 매월 1일에 얻으면 그달부터 건강보험료가 붙는다.",
+   "verdict": "REAL",
+   "explanation": "국민건강보험법 제69조 제2항은 보험료를 자격 취득일이 속한 달의 «다음 달부터» 징수하되, «자격을 매월 1일에 취득한 경우»에는 그달부터 징수한다는 단서를 두고 있습니다.",
+   "basisKey": "geonbo-1il",
+   "topic": "4대보험",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EB%AF%BC%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EB%B2%95/%EC%A0%9C69%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "geonbo-1il-f",
+   "claim": "건강보험료는 자격을 얻은 날과 상관없이 늘 다음 달부터 붙는다.",
+   "verdict": "FAKE",
+   "explanation": "국민건강보험법 제69조 제2항은 보험료를 자격 취득일이 속한 달의 «다음 달부터» 징수하되, «자격을 매월 1일에 취득한 경우»에는 그달부터 징수한다는 단서를 두고 있습니다.",
+   "basisKey": "geonbo-1il",
+   "topic": "4대보험",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EB%AF%BC%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EB%B2%95/%EC%A0%9C69%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "daejigeup-r",
+   "claim": "사업주가 임금을 못 주면 국가가 대신 지급하고 나중에 사업주에게 받아낸다.",
+   "verdict": "REAL",
+   "explanation": "임금채권보장법 제7조 제1항은 고용노동부장관이 퇴직한 근로자의 미지급 임금등을 «사업주를 대신하여 지급한다»고 정합니다. 이를 대지급금이라고 합니다.",
+   "basisKey": "daejigeup",
+   "topic": "일과 임금",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%84%EA%B8%88%EC%B1%84%EA%B6%8C%EB%B3%B4%EC%9E%A5%EB%B2%95/%EC%A0%9C7%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "daejigeup-f",
+   "claim": "사업주가 도산해 임금을 못 받으면 근로자가 기댈 제도가 따로 없다.",
+   "verdict": "FAKE",
+   "explanation": "임금채권보장법 제7조 제1항은 고용노동부장관이 퇴직한 근로자의 미지급 임금등을 «사업주를 대신하여 지급한다»고 정합니다. 이를 대지급금이라고 합니다.",
+   "basisKey": "daejigeup",
+   "topic": "일과 임금",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%84%EA%B8%88%EC%B1%84%EA%B6%8C%EB%B3%B4%EC%9E%A5%EB%B2%95/%EC%A0%9C7%EC%A1%B0",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "gaein-300-r",
+   "claim": "개인정보가 유출되면 손해액을 증명하지 않아도 300만원 이하에서 배상을 청구할 수 있다.",
+   "verdict": "REAL",
+   "explanation": "개인정보 보호법 제39조의2 제1항은 «300만원 이하의 범위에서 상당한 금액을 손해액으로 하여» 배상을 청구할 수 있게 하고, 처리자가 고의·과실 없음을 입증하지 못하면 책임을 면할 수 없다고 정합니다.",
+   "basisKey": "gaein-300",
+   "topic": "행정과 개인정보",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EB%B3%B4%ED%98%B8%EB%B2%95/%EC%A0%9C39%EC%A1%B0%EC%9D%982",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
+   "id": "gaein-300-f",
+   "claim": "개인정보가 유출돼도 내가 입은 손해액을 증명하지 못하면 배상을 청구할 수 없다.",
+   "verdict": "FAKE",
+   "explanation": "개인정보 보호법 제39조의2 제1항은 «300만원 이하의 범위에서 상당한 금액을 손해액으로 하여» 배상을 청구할 수 있게 하고, 처리자가 고의·과실 없음을 입증하지 못하면 책임을 면할 수 없다고 정합니다.",
+   "basisKey": "gaein-300",
+   "topic": "행정과 개인정보",
+   "basisType": "LAW",
+   "source": {
+    "agency": "법제처 국가법령정보센터",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EB%B3%B4%ED%98%B8%EB%B2%95/%EC%A0%9C39%EC%A1%B0%EC%9D%982",
+    "checkedOn": "2026-08-12"
+   }
+  },
+  {
    "id": "jejomul-r",
    "claim": "제조물 결함으로 다른 재산에 손해가 났을 때, 그 제조물 자체의 손해는 제조물 책임에서 빠진다.",
    "verdict": "REAL",
