@@ -8,6 +8,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제60조 제2항은 계속 근로한 기간이 1년 미만인 근로자에게 1개월 개근 시 1일의 유급휴가를 주도록 정하고 있습니다. 1년을 채워야 15일이 생기는 것(같은 조 제1항)과는 별개입니다.",
    "basisKey": "yeoncha-1year",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -21,6 +22,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제60조 제2항은 계속 근로한 기간이 1년 미만인 근로자에게 1개월 개근 시 1일의 유급휴가를 주도록 정하고 있습니다. 1년을 채워야 15일이 생기는 것(같은 조 제1항)과는 별개입니다.",
    "basisKey": "yeoncha-1year",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -34,6 +36,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제60조 제1항은 «1년간 80퍼센트 이상 출근한 근로자»에게 15일의 유급휴가를 주도록 정합니다. 출근율이 80퍼센트에 못 미치면 제2항에 따라 1개월 개근마다 1일이 적용됩니다.",
    "basisKey": "yeoncha-15",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -47,6 +50,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제60조 제1항은 «1년간 80퍼센트 이상 출근한 근로자»에게 15일의 유급휴가를 주도록 정합니다. 출근율이 80퍼센트에 못 미치면 제2항에 따라 1개월 개근마다 1일이 적용됩니다.",
    "basisKey": "yeoncha-15",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -60,6 +64,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제60조 제4항은 3년 이상 계속 근로한 사람에게 매 2년마다 1일을 더하되, «가산휴가를 포함한 총 휴가 일수는 25일을 한도로 한다»고 못 박고 있습니다.",
    "basisKey": "yeoncha-max",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -73,6 +78,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제60조 제4항은 3년 이상 계속 근로한 사람에게 매 2년마다 1일을 더하되, «가산휴가를 포함한 총 휴가 일수는 25일을 한도로 한다»고 못 박고 있습니다.",
    "basisKey": "yeoncha-max",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -86,6 +92,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제54조 제1항은 근로시간이 4시간이면 30분 이상, 8시간이면 1시간 이상의 휴게시간을 근로시간 도중에 주도록 정하고 있습니다.",
    "basisKey": "hyuge-4h",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -99,6 +106,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제54조 제1항은 근로시간이 4시간이면 30분 이상, 8시간이면 1시간 이상의 휴게시간을 근로시간 도중에 주도록 정하고 있습니다.",
    "basisKey": "hyuge-4h",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -112,6 +120,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제54조 제2항은 «휴게시간은 근로자가 자유롭게 이용할 수 있다»고 정합니다. 자유롭게 쓸 수 없다면 그 시간은 휴게가 아니라 근로시간으로 봅니다.",
    "basisKey": "hyuge-free",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -125,6 +134,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제54조 제2항은 «휴게시간은 근로자가 자유롭게 이용할 수 있다»고 정합니다. 자유롭게 쓸 수 없다면 그 시간은 휴게가 아니라 근로시간으로 봅니다.",
    "basisKey": "hyuge-free",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -138,6 +148,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제55조 제1항은 «1주에 평균 1회 이상의 유급휴일»을 보장하도록 정하고 있습니다. 유급이므로 그날에도 임금이 지급됩니다.",
    "basisKey": "jugyu",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -151,6 +162,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제55조 제1항은 «1주에 평균 1회 이상의 유급휴일»을 보장하도록 정하고 있습니다. 유급이므로 그날에도 임금이 지급됩니다.",
    "basisKey": "jugyu",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -164,6 +176,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제56조 제1항은 연장근로에 대해 통상임금의 100분의 50 이상을 가산해 지급하도록 정하고 있습니다.",
    "basisKey": "yeonjang-50",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -177,6 +190,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제56조 제1항은 연장근로에 대해 통상임금의 100분의 50 이상을 가산해 지급하도록 정하고 있습니다.",
    "basisKey": "yeonjang-50",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -190,6 +204,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제56조 제2항은 8시간 이내의 휴일근로는 100분의 50, 8시간을 초과한 휴일근로는 100분의 100을 가산하도록 나누어 정하고 있습니다.",
    "basisKey": "hyuil-8h",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -203,6 +218,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제56조 제2항은 8시간 이내의 휴일근로는 100분의 50, 8시간을 초과한 휴일근로는 100분의 100을 가산하도록 나누어 정하고 있습니다.",
    "basisKey": "hyuil-8h",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -216,6 +232,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제56조 제3항은 야간근로를 «오후 10시부터 다음 날 오전 6시 사이의 근로»로 정의하고, 통상임금의 100분의 50 이상을 가산하도록 하고 있습니다.",
    "basisKey": "yagan-time",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -229,6 +246,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제56조 제3항은 야간근로를 «오후 10시부터 다음 날 오전 6시 사이의 근로»로 정의하고, 통상임금의 100분의 50 이상을 가산하도록 하고 있습니다.",
    "basisKey": "yagan-time",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -242,6 +260,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제26조는 적어도 30일 전에 예고하고, 예고하지 않았을 때는 30일분 이상의 통상임금을 지급하도록 정하고 있습니다.",
    "basisKey": "haego-30d",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -255,6 +274,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제26조는 적어도 30일 전에 예고하고, 예고하지 않았을 때는 30일분 이상의 통상임금을 지급하도록 정하고 있습니다.",
    "basisKey": "haego-30d",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -268,6 +288,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제27조는 해고사유와 해고시기를 서면으로 통지하도록 하고, 제2항에서 «서면으로 통지하여야 효력이 있다»고 못 박고 있습니다.",
    "basisKey": "haego-seomyeon",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -281,6 +302,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제27조는 해고사유와 해고시기를 서면으로 통지하도록 하고, 제2항에서 «서면으로 통지하여야 효력이 있다»고 못 박고 있습니다.",
    "basisKey": "haego-seomyeon",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -294,6 +316,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제36조는 지급 사유가 발생한 때부터 14일 이내에 임금과 그 밖의 모든 금품을 지급하도록 정합니다. 기일 연장은 당사자 합의가 있어야 합니다.",
    "basisKey": "gumpum-14d",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -307,6 +330,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제36조는 지급 사유가 발생한 때부터 14일 이내에 임금과 그 밖의 모든 금품을 지급하도록 정합니다. 기일 연장은 당사자 합의가 있어야 합니다.",
    "basisKey": "gumpum-14d",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -320,6 +344,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제43조 제1항은 임금을 통화로 직접 근로자에게 전액 지급하도록 정합니다. 예외는 법령이나 단체협약에 특별한 규정이 있을 때뿐입니다.",
    "basisKey": "imgum-jeonaek",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -333,6 +358,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제43조 제1항은 임금을 통화로 직접 근로자에게 전액 지급하도록 정합니다. 예외는 법령이나 단체협약에 특별한 규정이 있을 때뿐입니다.",
    "basisKey": "imgum-jeonaek",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -346,6 +372,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제43조 제2항은 임금을 매월 1회 이상 일정한 날짜에 지급하도록 정하고 있습니다.",
    "basisKey": "imgum-monthly",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -359,6 +386,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제43조 제2항은 임금을 매월 1회 이상 일정한 날짜에 지급하도록 정하고 있습니다.",
    "basisKey": "imgum-monthly",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -372,6 +400,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제48조 제2항은 임금을 지급할 때마다 구성항목과 계산방법, 공제 내역 등을 적은 임금명세서를 서면(전자문서 포함)으로 교부하도록 의무화하고 있습니다.",
    "basisKey": "myeongsaeseo",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -385,6 +414,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제48조 제2항은 임금을 지급할 때마다 구성항목과 계산방법, 공제 내역 등을 적은 임금명세서를 서면(전자문서 포함)으로 교부하도록 의무화하고 있습니다.",
    "basisKey": "myeongsaeseo",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -398,6 +428,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제11조 제1항은 상시 5명 이상의 근로자를 사용하는 사업장에 적용한다고 정하고, 4명 이하 사업장에는 대통령령으로 정하는 일부 규정만 적용됩니다.",
    "basisKey": "geunro-5in",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -411,6 +442,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제11조 제1항은 상시 5명 이상의 근로자를 사용하는 사업장에 적용한다고 정하고, 4명 이하 사업장에는 대통령령으로 정하는 일부 규정만 적용됩니다.",
    "basisKey": "geunro-5in",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -424,6 +456,7 @@
    "verdict": "REAL",
    "explanation": "근로기준법 제17조는 임금·소정근로시간·휴일·연차 유급휴가를 명시하도록 하고, 제2항에서 그 사항이 적힌 서면을 근로자에게 교부하도록 정하고 있습니다.",
    "basisKey": "geunro-myeongsi",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -437,6 +470,7 @@
    "verdict": "FAKE",
    "explanation": "근로기준법 제17조는 임금·소정근로시간·휴일·연차 유급휴가를 명시하도록 하고, 제2항에서 그 사항이 적힌 서면을 근로자에게 교부하도록 정하고 있습니다.",
    "basisKey": "geunro-myeongsi",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -450,6 +484,7 @@
    "verdict": "REAL",
    "explanation": "근로자퇴직급여 보장법 제4조 제1항 단서는 계속근로기간이 1년 미만인 근로자와 4주를 평균해 1주 소정근로시간이 15시간 미만인 근로자를 제외하고 있습니다.",
    "basisKey": "toejik-15h",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -463,6 +498,7 @@
    "verdict": "FAKE",
    "explanation": "근로자퇴직급여 보장법 제4조 제1항 단서는 계속근로기간이 1년 미만인 근로자와 4주를 평균해 1주 소정근로시간이 15시간 미만인 근로자를 제외하고 있습니다.",
    "basisKey": "toejik-15h",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -476,6 +512,7 @@
    "verdict": "REAL",
    "explanation": "근로자퇴직급여 보장법 제8조 제1항은 계속근로기간 1년에 대하여 30일분 이상의 평균임금을 지급할 수 있는 제도를 설정하도록 정하고 있습니다.",
    "basisKey": "toejik-30d",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -489,6 +526,7 @@
    "verdict": "FAKE",
    "explanation": "근로자퇴직급여 보장법 제8조 제1항은 계속근로기간 1년에 대하여 30일분 이상의 평균임금을 지급할 수 있는 제도를 설정하도록 정하고 있습니다.",
    "basisKey": "toejik-30d",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -502,6 +540,7 @@
    "verdict": "REAL",
    "explanation": "근로자퇴직급여 보장법 제9조 제1항은 지급사유가 발생한 날부터 14일 이내에 퇴직금을 지급하도록 정합니다. 연장하려면 당사자 간 합의가 필요합니다.",
    "basisKey": "toejik-14d",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -515,6 +554,7 @@
    "verdict": "FAKE",
    "explanation": "근로자퇴직급여 보장법 제9조 제1항은 지급사유가 발생한 날부터 14일 이내에 퇴직금을 지급하도록 정합니다. 연장하려면 당사자 간 합의가 필요합니다.",
    "basisKey": "toejik-14d",
+   "topic": "일과 임금",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -528,6 +568,7 @@
    "verdict": "REAL",
    "explanation": "주택임대차보호법 제3조 제1항은 주택의 인도와 주민등록을 마친 때에는 «그 다음 날부터» 제삼자에 대해 효력이 생긴다고 정합니다. 하루의 빈틈이 생기는 이유가 이 조문입니다.",
    "basisKey": "imdae-daehang",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -541,6 +582,7 @@
    "verdict": "FAKE",
    "explanation": "주택임대차보호법 제3조 제1항은 주택의 인도와 주민등록을 마친 때에는 «그 다음 날부터» 제삼자에 대해 효력이 생긴다고 정합니다. 하루의 빈틈이 생기는 이유가 이 조문입니다.",
    "basisKey": "imdae-daehang",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -554,6 +596,7 @@
    "verdict": "REAL",
    "explanation": "주택임대차보호법 제4조 제1항은 2년 미만으로 정한 임대차는 그 기간을 2년으로 본다고 하면서, 임차인은 2년 미만으로 정한 기간이 유효하다고 주장할 수도 있게 했습니다.",
    "basisKey": "imdae-2year",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -567,6 +610,7 @@
    "verdict": "FAKE",
    "explanation": "주택임대차보호법 제4조 제1항은 2년 미만으로 정한 임대차는 그 기간을 2년으로 본다고 하면서, 임차인은 2년 미만으로 정한 기간이 유효하다고 주장할 수도 있게 했습니다.",
    "basisKey": "imdae-2year",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -580,6 +624,7 @@
    "verdict": "REAL",
    "explanation": "주택임대차보호법 제4조 제2항은 임대차기간이 끝난 경우에도 임차인이 보증금을 반환받을 때까지는 임대차관계가 존속되는 것으로 본다고 정합니다.",
    "basisKey": "imdae-boiljon",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -593,6 +638,7 @@
    "verdict": "FAKE",
    "explanation": "주택임대차보호법 제4조 제2항은 임대차기간이 끝난 경우에도 임차인이 보증금을 반환받을 때까지는 임대차관계가 존속되는 것으로 본다고 정합니다.",
    "basisKey": "imdae-boiljon",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -606,6 +652,7 @@
    "verdict": "REAL",
    "explanation": "주택임대차보호법 제6조 제1항은 임대인이 만료 6개월 전부터 2개월 전까지 갱신거절이나 조건변경 통지를 하지 않으면 전 임대차와 동일한 조건으로 다시 임대차한 것으로 본다고 정합니다.",
    "basisKey": "imdae-mukshi",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -619,6 +666,7 @@
    "verdict": "FAKE",
    "explanation": "주택임대차보호법 제6조 제1항은 임대인이 만료 6개월 전부터 2개월 전까지 갱신거절이나 조건변경 통지를 하지 않으면 전 임대차와 동일한 조건으로 다시 임대차한 것으로 본다고 정합니다.",
    "basisKey": "imdae-mukshi",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -632,6 +680,7 @@
    "verdict": "REAL",
    "explanation": "주택임대차보호법 제6조 제2항은 제1항에 따라 갱신된 경우 임대차의 존속기간을 2년으로 본다고 정하고 있습니다.",
    "basisKey": "imdae-mukshi2y",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -645,6 +694,7 @@
    "verdict": "FAKE",
    "explanation": "주택임대차보호법 제6조 제2항은 제1항에 따라 갱신된 경우 임대차의 존속기간을 2년으로 본다고 정하고 있습니다.",
    "basisKey": "imdae-mukshi2y",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -658,6 +708,7 @@
    "verdict": "REAL",
    "explanation": "주택임대차보호법 제6조 제3항은 2기의 차임액에 달하도록 연체하거나 임차인의 의무를 현저히 위반한 임차인에게는 제1항을 적용하지 않는다고 정합니다.",
    "basisKey": "imdae-2gi",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -671,6 +722,7 @@
    "verdict": "FAKE",
    "explanation": "주택임대차보호법 제6조 제3항은 2기의 차임액에 달하도록 연체하거나 임차인의 의무를 현저히 위반한 임차인에게는 제1항을 적용하지 않는다고 정합니다.",
    "basisKey": "imdae-2gi",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -684,6 +736,7 @@
    "verdict": "REAL",
    "explanation": "주택임대차보호법 제7조 제2항은 증액청구가 약정한 차임이나 보증금의 20분의 1, 곧 5퍼센트를 초과하지 못하도록 정합니다. 지자체가 조례로 그 범위 안에서 달리 정할 수 있습니다.",
    "basisKey": "imdae-5percent",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -697,6 +750,7 @@
    "verdict": "FAKE",
    "explanation": "주택임대차보호법 제7조 제2항은 증액청구가 약정한 차임이나 보증금의 20분의 1, 곧 5퍼센트를 초과하지 못하도록 정합니다. 지자체가 조례로 그 범위 안에서 달리 정할 수 있습니다.",
    "basisKey": "imdae-5percent",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -710,6 +764,7 @@
    "verdict": "REAL",
    "explanation": "주택임대차보호법 제7조 제1항은 증액청구를 임대차계약 또는 약정한 증액이 있은 후 1년 이내에는 하지 못한다고 정하고 있습니다.",
    "basisKey": "imdae-1year-gap",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -723,6 +778,7 @@
    "verdict": "FAKE",
    "explanation": "주택임대차보호법 제7조 제1항은 증액청구를 임대차계약 또는 약정한 증액이 있은 후 1년 이내에는 하지 못한다고 정하고 있습니다.",
    "basisKey": "imdae-1year-gap",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -736,6 +792,7 @@
    "verdict": "REAL",
    "explanation": "전자상거래법 제17조 제1항은 계약내용 서면을 받은 날, 그보다 공급이 늦으면 재화를 공급받은 날부터 7일 이내에 청약철회를 할 수 있다고 정합니다.",
    "basisKey": "cheongyak-7d",
+   "topic": "사고 파는 것",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -749,6 +806,7 @@
    "verdict": "FAKE",
    "explanation": "전자상거래법 제17조 제1항은 계약내용 서면을 받은 날, 그보다 공급이 늦으면 재화를 공급받은 날부터 7일 이내에 청약철회를 할 수 있다고 정합니다.",
    "basisKey": "cheongyak-7d",
+   "topic": "사고 파는 것",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -762,6 +820,7 @@
    "verdict": "REAL",
    "explanation": "전자상거래법 제17조 제2항 제1호 단서는 «재화등의 내용을 확인하기 위하여 포장 등을 훼손한 경우는 제외한다»고 명시하고 있습니다.",
    "basisKey": "cheongyak-package",
+   "topic": "사고 파는 것",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -775,6 +834,7 @@
    "verdict": "FAKE",
    "explanation": "전자상거래법 제17조 제2항 제1호 단서는 «재화등의 내용을 확인하기 위하여 포장 등을 훼손한 경우는 제외한다»고 명시하고 있습니다.",
    "basisKey": "cheongyak-package",
+   "topic": "사고 파는 것",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -788,6 +848,7 @@
    "verdict": "REAL",
    "explanation": "전자상거래법 제17조 제2항 제4호는 복제가 가능한 재화등의 포장을 훼손한 경우를 청약철회 제한 사유로 두고 있습니다.",
    "basisKey": "cheongyak-copy",
+   "topic": "사고 파는 것",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -801,6 +862,7 @@
    "verdict": "FAKE",
    "explanation": "전자상거래법 제17조 제2항 제4호는 복제가 가능한 재화등의 포장을 훼손한 경우를 청약철회 제한 사유로 두고 있습니다.",
    "basisKey": "cheongyak-copy",
+   "topic": "사고 파는 것",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -814,6 +876,7 @@
    "verdict": "REAL",
    "explanation": "할부거래에 관한 법률 제8조 제1항은 계약서를 받은 날부터 7일, 공급이 더 늦으면 재화를 공급받은 날부터 7일 이내에 청약을 철회할 수 있도록 정합니다.",
    "basisKey": "halbu-7d",
+   "topic": "사고 파는 것",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -827,6 +890,7 @@
    "verdict": "FAKE",
    "explanation": "할부거래에 관한 법률 제8조 제1항은 계약서를 받은 날부터 7일, 공급이 더 늦으면 재화를 공급받은 날부터 7일 이내에 청약을 철회할 수 있도록 정합니다.",
    "basisKey": "halbu-7d",
+   "topic": "사고 파는 것",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -840,6 +904,7 @@
    "verdict": "REAL",
    "explanation": "고용보험법 제40조 제1항 제1호는 기준기간 동안의 피보험 단위기간이 합산하여 180일 이상일 것을 구직급여 수급 요건으로 정하고 있습니다.",
    "basisKey": "gujik-180",
+   "topic": "4대보험",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -853,6 +918,7 @@
    "verdict": "FAKE",
    "explanation": "고용보험법 제40조 제1항 제1호는 기준기간 동안의 피보험 단위기간이 합산하여 180일 이상일 것을 구직급여 수급 요건으로 정하고 있습니다.",
    "basisKey": "gujik-180",
+   "topic": "4대보험",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -866,6 +932,7 @@
    "verdict": "REAL",
    "explanation": "국민연금법 제6조는 국내에 거주하는 국민으로서 18세 이상 60세 미만인 자를 가입 대상으로 정하고, 공무원연금 등 다른 제도의 적용을 받는 사람은 제외합니다.",
    "basisKey": "nps-age",
+   "topic": "4대보험",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -879,6 +946,7 @@
    "verdict": "FAKE",
    "explanation": "국민연금법 제6조는 국내에 거주하는 국민으로서 18세 이상 60세 미만인 자를 가입 대상으로 정하고, 공무원연금 등 다른 제도의 적용을 받는 사람은 제외합니다.",
    "basisKey": "nps-age",
+   "topic": "4대보험",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -892,6 +960,7 @@
    "verdict": "REAL",
    "explanation": "남녀고용평등법 제18조의2 제1항은 배우자의 출산을 이유로 20일의 휴가를 주도록 하고, 그 기간을 유급으로 정하고 있습니다.",
    "basisKey": "baeuja-20d",
+   "topic": "일과 가정",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -905,6 +974,7 @@
    "verdict": "FAKE",
    "explanation": "남녀고용평등법 제18조의2 제1항은 배우자의 출산을 이유로 20일의 휴가를 주도록 하고, 그 기간을 유급으로 정하고 있습니다.",
    "basisKey": "baeuja-20d",
+   "topic": "일과 가정",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -918,6 +988,7 @@
    "verdict": "REAL",
    "explanation": "남녀고용평등법 제18조의2 제3항은 배우자가 출산한 날부터 120일이 지나면 배우자 출산휴가를 사용할 수 없다고 정합니다.",
    "basisKey": "baeuja-120d",
+   "topic": "일과 가정",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -931,6 +1002,7 @@
    "verdict": "FAKE",
    "explanation": "남녀고용평등법 제18조의2 제3항은 배우자가 출산한 날부터 120일이 지나면 배우자 출산휴가를 사용할 수 없다고 정합니다.",
    "basisKey": "baeuja-120d",
+   "topic": "일과 가정",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -944,6 +1016,7 @@
    "verdict": "REAL",
    "explanation": "남녀고용평등법 제18조의2 제4항은 배우자 출산휴가를 3회에 한정하여 나누어 사용할 수 있다고 정하고 있습니다.",
    "basisKey": "baeuja-split",
+   "topic": "일과 가정",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -957,6 +1030,7 @@
    "verdict": "FAKE",
    "explanation": "남녀고용평등법 제18조의2 제4항은 배우자 출산휴가를 3회에 한정하여 나누어 사용할 수 있다고 정하고 있습니다.",
    "basisKey": "baeuja-split",
+   "topic": "일과 가정",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -970,6 +1044,7 @@
    "verdict": "REAL",
    "explanation": "남녀고용평등법 제19조 제1항은 만 8세 이하 «또는 초등학교 2학년 이하»의 자녀를 양육하기 위한 휴직 신청을 허용하도록 정합니다.",
    "basisKey": "yuka-age",
+   "topic": "일과 가정",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -983,6 +1058,7 @@
    "verdict": "FAKE",
    "explanation": "남녀고용평등법 제19조 제1항은 만 8세 이하 «또는 초등학교 2학년 이하»의 자녀를 양육하기 위한 휴직 신청을 허용하도록 정합니다.",
    "basisKey": "yuka-age",
+   "topic": "일과 가정",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -996,6 +1072,7 @@
    "verdict": "REAL",
    "explanation": "남녀고용평등법 제19조 제2항은 육아휴직 기간을 1년 이내로 하되, 부모가 모두 같은 자녀로 각각 3개월 이상 사용한 경우 등에는 6개월 이내에서 추가로 사용할 수 있게 하고 있습니다.",
    "basisKey": "yuka-1year",
+   "topic": "일과 가정",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1009,6 +1086,7 @@
    "verdict": "FAKE",
    "explanation": "남녀고용평등법 제19조 제2항은 육아휴직 기간을 1년 이내로 하되, 부모가 모두 같은 자녀로 각각 3개월 이상 사용한 경우 등에는 6개월 이내에서 추가로 사용할 수 있게 하고 있습니다.",
    "basisKey": "yuka-1year",
+   "topic": "일과 가정",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1022,6 +1100,7 @@
    "verdict": "REAL",
    "explanation": "남녀고용평등법 제19조 제3항은 육아휴직을 이유로 한 불리한 처우를 금지하고, 육아휴직 기간에는 해고하지 못한다고 정합니다. 사업을 계속할 수 없는 경우만 예외입니다.",
    "basisKey": "yuka-haego",
+   "topic": "일과 가정",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1035,6 +1114,7 @@
    "verdict": "FAKE",
    "explanation": "남녀고용평등법 제19조 제3항은 육아휴직을 이유로 한 불리한 처우를 금지하고, 육아휴직 기간에는 해고하지 못한다고 정합니다. 사업을 계속할 수 없는 경우만 예외입니다.",
    "basisKey": "yuka-haego",
+   "topic": "일과 가정",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1048,6 +1128,7 @@
    "verdict": "REAL",
    "explanation": "식품 등의 표시·광고에 관한 법률 제2조 제12호는 소비기한을 «식품등에 표시된 보관방법을 준수할 경우 섭취하여도 안전에 이상이 없는 기한»으로 정의합니다. 파는 기한이 아니라 먹는 기한입니다.",
    "basisKey": "sobigihan",
+   "topic": "생활 안전",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1061,6 +1142,7 @@
    "verdict": "FAKE",
    "explanation": "식품 등의 표시·광고에 관한 법률 제2조 제12호는 소비기한을 «식품등에 표시된 보관방법을 준수할 경우 섭취하여도 안전에 이상이 없는 기한»으로 정의합니다. 파는 기한이 아니라 먹는 기한입니다.",
    "basisKey": "sobigihan",
+   "topic": "생활 안전",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1074,6 +1156,7 @@
    "verdict": "REAL",
    "explanation": "주민등록법 제16조 제1항은 거주지를 이동하면 신고의무자가 «신거주지에 전입한 날부터 14일 이내»에 전입신고를 하도록 정하고 있습니다.",
    "basisKey": "jeonip-14d",
+   "topic": "행정과 개인정보",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1087,6 +1170,7 @@
    "verdict": "FAKE",
    "explanation": "주민등록법 제16조 제1항은 거주지를 이동하면 신고의무자가 «신거주지에 전입한 날부터 14일 이내»에 전입신고를 하도록 정하고 있습니다.",
    "basisKey": "jeonip-14d",
+   "topic": "행정과 개인정보",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1100,6 +1184,7 @@
    "verdict": "REAL",
    "explanation": "자원의 절약과 재활용촉진에 관한 법률 제10조 제1항은 집단급식소와 식품접객업 등이 1회용품 사용을 억제하고 무상으로 제공하지 않도록 정합니다. 생분해성수지제품은 예외입니다.",
    "basisKey": "ilhoeyong",
+   "topic": "생활 안전",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1113,6 +1198,7 @@
    "verdict": "FAKE",
    "explanation": "자원의 절약과 재활용촉진에 관한 법률 제10조 제1항은 집단급식소와 식품접객업 등이 1회용품 사용을 억제하고 무상으로 제공하지 않도록 정합니다. 생분해성수지제품은 예외입니다.",
    "basisKey": "ilhoeyong",
+   "topic": "생활 안전",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1126,6 +1212,7 @@
    "verdict": "REAL",
    "explanation": "정보통신망법 제50조 제1항은 전자적 전송매체로 영리목적의 광고성 정보를 전송하려면 수신자의 명시적인 사전 동의를 받도록 정합니다. 기존 거래관계 등 제한된 예외만 있습니다.",
    "basisKey": "spam-consent",
+   "topic": "행정과 개인정보",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1139,6 +1226,7 @@
    "verdict": "FAKE",
    "explanation": "정보통신망법 제50조 제1항은 전자적 전송매체로 영리목적의 광고성 정보를 전송하려면 수신자의 명시적인 사전 동의를 받도록 정합니다. 기존 거래관계 등 제한된 예외만 있습니다.",
    "basisKey": "spam-consent",
+   "topic": "행정과 개인정보",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1152,6 +1240,7 @@
    "verdict": "REAL",
    "explanation": "개인정보 보호법 제24조의2 제1항은 법률·대통령령 등에서 구체적으로 주민등록번호 처리를 요구하거나 허용한 경우 등을 빼고는 주민등록번호를 처리할 수 없다고 정합니다. 동의만으로는 근거가 되지 않습니다.",
    "basisKey": "jumin-limit",
+   "topic": "행정과 개인정보",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1165,6 +1254,7 @@
    "verdict": "FAKE",
    "explanation": "개인정보 보호법 제24조의2 제1항은 법률·대통령령 등에서 구체적으로 주민등록번호 처리를 요구하거나 허용한 경우 등을 빼고는 주민등록번호를 처리할 수 없다고 정합니다. 동의만으로는 근거가 되지 않습니다.",
    "basisKey": "jumin-limit",
+   "topic": "행정과 개인정보",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1178,6 +1268,7 @@
    "verdict": "REAL",
    "explanation": "개인정보 보호법 제35조 제1항은 정보주체가 개인정보처리자에게 자신의 개인정보 열람을 요구할 수 있다고 정합니다. 공공기관에 대해서는 별도의 경로가 추가로 열려 있을 뿐입니다.",
    "basisKey": "yeollam",
+   "topic": "행정과 개인정보",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1191,6 +1282,7 @@
    "verdict": "FAKE",
    "explanation": "개인정보 보호법 제35조 제1항은 정보주체가 개인정보처리자에게 자신의 개인정보 열람을 요구할 수 있다고 정합니다. 공공기관에 대해서는 별도의 경로가 추가로 열려 있을 뿐입니다.",
    "basisKey": "yeollam",
+   "topic": "행정과 개인정보",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1204,6 +1296,7 @@
    "verdict": "REAL",
    "explanation": "민법 제565조 제1항은 다른 약정이 없으면 교부자는 계약금을 포기하고, 수령자는 «그 배액을 상환하여» 매매계약을 해제할 수 있다고 정합니다. 상대가 이행에 착수하기 전까지만 가능합니다.",
    "basisKey": "gyeyakgeum",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1217,6 +1310,7 @@
    "verdict": "FAKE",
    "explanation": "민법 제565조 제1항은 다른 약정이 없으면 교부자는 계약금을 포기하고, 수령자는 «그 배액을 상환하여» 매매계약을 해제할 수 있다고 정합니다. 상대가 이행에 착수하기 전까지만 가능합니다.",
    "basisKey": "gyeyakgeum",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1230,6 +1324,7 @@
    "verdict": "REAL",
    "explanation": "민법 제162조 제1항은 채권이 10년간 행사하지 않으면 소멸시효가 완성한다고 정합니다. 채권·소유권 외의 재산권은 20년입니다.",
    "basisKey": "sohyeol-10y",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1243,6 +1338,7 @@
    "verdict": "FAKE",
    "explanation": "민법 제162조 제1항은 채권이 10년간 행사하지 않으면 소멸시효가 완성한다고 정합니다. 채권·소유권 외의 재산권은 20년입니다.",
    "basisKey": "sohyeol-10y",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1256,6 +1352,7 @@
    "verdict": "REAL",
    "explanation": "민법 제163조 제1호는 이자·부양료·급료·사용료 등 1년 이내의 기간으로 정한 금전이나 물건의 지급을 목적으로 한 채권을 3년의 단기소멸시효 대상으로 정합니다.",
    "basisKey": "sohyeol-3y",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1269,6 +1366,7 @@
    "verdict": "FAKE",
    "explanation": "민법 제163조 제1호는 이자·부양료·급료·사용료 등 1년 이내의 기간으로 정한 금전이나 물건의 지급을 목적으로 한 채권을 3년의 단기소멸시효 대상으로 정합니다.",
    "basisKey": "sohyeol-3y",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1282,6 +1380,7 @@
    "verdict": "REAL",
    "explanation": "민법 제550조는 «당사자 일방이 계약을 해지한 때에는 계약은 장래에 대하여 그 효력을 잃는다»고 정합니다. 처음으로 되돌리는 것은 해지가 아니라 해제입니다.",
    "basisKey": "haeji-jangrae",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1295,6 +1394,7 @@
    "verdict": "FAKE",
    "explanation": "민법 제550조는 «당사자 일방이 계약을 해지한 때에는 계약은 장래에 대하여 그 효력을 잃는다»고 정합니다. 처음으로 되돌리는 것은 해지가 아니라 해제입니다.",
    "basisKey": "haeji-jangrae",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1308,6 +1408,7 @@
    "verdict": "REAL",
    "explanation": "민법 제245조 제1항은 20년간 소유의 의사로 평온, 공연하게 부동산을 점유한 자가 등기함으로써 소유권을 취득한다고 정합니다.",
    "basisKey": "jeomyu-20y",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1321,6 +1422,7 @@
    "verdict": "FAKE",
    "explanation": "민법 제245조 제1항은 20년간 소유의 의사로 평온, 공연하게 부동산을 점유한 자가 등기함으로써 소유권을 취득한다고 정합니다.",
    "basisKey": "jeomyu-20y",
+   "topic": "집과 계약",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1334,6 +1436,7 @@
    "verdict": "REAL",
    "explanation": "실화책임에 관한 법률 제3조 제1항은 중대한 과실로 인한 것이 아닌 실화의 경우 배상의무자가 법원에 손해배상액의 경감을 청구할 수 있도록 정합니다.",
    "basisKey": "silhwa",
+   "topic": "생활 안전",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1347,6 +1450,7 @@
    "verdict": "FAKE",
    "explanation": "실화책임에 관한 법률 제3조 제1항은 중대한 과실로 인한 것이 아닌 실화의 경우 배상의무자가 법원에 손해배상액의 경감을 청구할 수 있도록 정합니다.",
    "basisKey": "silhwa",
+   "topic": "생활 안전",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1360,6 +1464,7 @@
    "verdict": "REAL",
    "explanation": "제조물 책임법 제3조 제1항은 배상 대상을 정하면서 «그 제조물에 대하여만 발생한 손해는 제외한다»고 명시합니다. 제품 자체의 하자는 계약 책임으로 다룹니다.",
    "basisKey": "jejomul",
+   "topic": "사고 파는 것",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
@@ -1373,6 +1478,7 @@
    "verdict": "FAKE",
    "explanation": "제조물 책임법 제3조 제1항은 배상 대상을 정하면서 «그 제조물에 대하여만 발생한 손해는 제외한다»고 명시합니다. 제품 자체의 하자는 계약 책임으로 다룹니다.",
    "basisKey": "jejomul",
+   "topic": "사고 파는 것",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
