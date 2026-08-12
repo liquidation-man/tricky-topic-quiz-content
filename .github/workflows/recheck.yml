@@ -1,0 +1,73 @@
+# 재검증 기한 감시 — 매주 월요일.
+#
+# 「사람이 기억해서 지우는 구조로 만들지 마라」(BRIEF §0-1 ②) 를 채우는 자리다.
+# 기한이 지났거나 30일 안에 닥친 근거가 있으면 이슈를 열거나 갱신하고,
+# 없으면 아무것도 하지 않는다(열려 있던 이슈는 닫는다).
+#
+# 이 리포가 공개라 Actions 사용료가 들지 않는다.
+name: 재검증 기한 감시
+
+on:
+  schedule:
+    # 월요일 09:00 KST (= 00:00 UTC)
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  recheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: 기한 확인
+        id: check
+        run: |
+          set +e
+          node scripts/recheck.mjs > report.md
+          echo "stale=$?" >> "$GITHUB_OUTPUT"
+          cat report.md
+
+      - name: 이슈 열기 · 갱신 · 닫기
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('report.md', 'utf8');
+            const stale = '${{ steps.check.outputs.stale }}' === '1';
+            const title = '재검증 기한이 닥친 문항이 있다';
+
+            const { data: open } = await github.rest.issues.listForRepo({
+              ...context.repo, state: 'open', labels: 'recheck',
+            });
+            const existing = open.find((i) => i.title === title);
+
+            if (!stale) {
+              if (existing) {
+                await github.rest.issues.createComment({
+                  ...context.repo, issue_number: existing.number,
+                  body: '기한이 닥친 근거가 더 없다. 닫는다.\n\n' + body,
+                });
+                await github.rest.issues.update({
+                  ...context.repo, issue_number: existing.number, state: 'closed',
+                });
+              }
+              return;
+            }
+
+            if (existing) {
+              await github.rest.issues.createComment({
+                ...context.repo, issue_number: existing.number, body,
+              });
+            } else {
+              await github.rest.issues.create({
+                ...context.repo, title, body, labels: ['recheck'],
+              });
+            }
