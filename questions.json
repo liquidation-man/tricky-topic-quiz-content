@@ -1070,14 +1070,14 @@
   },
   {
    "id": "jeonip-14d-r",
-   "claim": "이사하면 사유가 생긴 날부터 14일 이내에 전입신고를 해야 한다.",
+   "claim": "이사하면 전입한 날부터 14일 이내에 전입신고를 해야 한다.",
    "verdict": "REAL",
-   "explanation": "주민등록법 제11조 제1항은 신고를 세대주가 신고사유가 발생한 날부터 14일 이내에 하도록 정하고 있습니다.",
+   "explanation": "주민등록법 제16조 제1항은 거주지를 이동하면 신고의무자가 «신거주지에 전입한 날부터 14일 이내»에 전입신고를 하도록 정하고 있습니다.",
    "basisKey": "jeonip-14d",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
-    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A3%BC%EB%AF%BC%EB%93%B1%EB%A1%9D%EB%B2%95/%EC%A0%9C11%EC%A1%B0",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A3%BC%EB%AF%BC%EB%93%B1%EB%A1%9D%EB%B2%95/%EC%A0%9C16%EC%A1%B0",
     "checkedOn": "2026-08-12"
    }
   },
@@ -1085,12 +1085,12 @@
    "id": "jeonip-14d-f",
    "claim": "전입신고는 이사한 뒤 30일 이내에만 하면 된다.",
    "verdict": "FAKE",
-   "explanation": "주민등록법 제11조 제1항은 신고를 세대주가 신고사유가 발생한 날부터 14일 이내에 하도록 정하고 있습니다.",
+   "explanation": "주민등록법 제16조 제1항은 거주지를 이동하면 신고의무자가 «신거주지에 전입한 날부터 14일 이내»에 전입신고를 하도록 정하고 있습니다.",
    "basisKey": "jeonip-14d",
    "basisType": "LAW",
    "source": {
     "agency": "법제처 국가법령정보센터",
-    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A3%BC%EB%AF%BC%EB%93%B1%EB%A1%9D%EB%B2%95/%EC%A0%9C11%EC%A1%B0",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A3%BC%EB%AF%BC%EB%93%B1%EB%A1%9D%EB%B2%95/%EC%A0%9C16%EC%A1%B0",
     "checkedOn": "2026-08-12"
    }
   },
